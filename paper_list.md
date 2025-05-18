@@ -4,6 +4,7 @@
 | Implementing Network Protocols at User Level  | SIGCOMM 93 | 2  |
 | netmap: a novel framework for fast packet I/O  | ATC 12  | 1 |
 | mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems | NSDI 14  | 2 |
+| Network Stack Specialization for Performance  | SIGCOMM 14  | 1 |
 | IX: A Protected Dataplane Operating System for High Throughput and Low Latency  | OSDI 14  | 2  |
 | Arrakis: The Operating System Is the Control Plane  | OSDI 14  | 2 |
 | ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks  | SOSP 17  | 2 |
@@ -26,3 +27,5 @@
 | Syrup: User-Defined Scheduling Across the Stack  | SOSP 21  | 1 |
 | MegaPipe: a new programming interface for scalable network I/O  | OSDI 12  | 1 |
 | Ensō : a streaming interface for NIC-application communication  | OSDI 23  | 1 |
+| Making Kernel Bypass Practical for the Cloud with Junction  | NSDI 24  | 0 |
+| The demikernel datapath OS architecture for microsecond-scale datacenter systems  | SOSP 21  | 0 |
