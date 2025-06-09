@@ -19,14 +19,14 @@
 | Socksdirect: datacenter sockets can be fast and compatible  | SIGCOMM 19  | 1 |
 | ANALYZING AND OPTIMIZING THE LINUX NETWORKING STACK  |   | 1 |
 | Understanding Host Network Stack Overheads  | SIGCOMM 21  | 1 |
-| Arachne: core-aware thread management  | OSDI 18  | 1 |
-| Shenango: achieving high CPU efficiency for latency-sensitive datacenter workloads  | NSDI 19  | 1 |
-| Caladan: mitigating interference at microsecond timescales  | OSDI 20  | 1 |
-| Shinjuku: preemptive scheduling for µsecond-scale tail latency  | NSDI 19  | 1 |
+| Arachne: core-aware thread management  | OSDI 18  | 2 |
+| Shenango: achieving high CPU efficiency for latency-sensitive datacenter workloads  | NSDI 19  | 2 |
+| Caladan: mitigating interference at microsecond timescales  | OSDI 20  | 2 |
+| Shinjuku: preemptive scheduling for µsecond-scale tail latency  | NSDI 19  | 2 |
 | ghOSt: fast & flexible user-space delegation of linux scheduling  | SOSP 21  | 1 |
 | Syrup: User-Defined Scheduling Across the Stack  | SOSP 21  | 1 |
 | MegaPipe: a new programming interface for scalable network I/O  | OSDI 12  | 1 |
 | Ensō : a streaming interface for NIC-application communication  | OSDI 23  | 1 |
 | Datacenter RPCs can be General and Fast  | NSDI 19  | 1 |
-| Making Kernel Bypass Practical for the Cloud with Junction  | NSDI 24  | 0 |
+| Making Kernel Bypass Practical for the Cloud with Junction  | NSDI 24  | 1 |
 | The demikernel datapath OS architecture for microsecond-scale datacenter systems  | SOSP 21  | 0 |
