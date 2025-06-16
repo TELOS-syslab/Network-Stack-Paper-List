@@ -29,4 +29,4 @@
 | Ensō : a streaming interface for NIC-application communication  | OSDI 23  | 1 |
 | Datacenter RPCs can be General and Fast  | NSDI 19  | 1 |
 | Making Kernel Bypass Practical for the Cloud with Junction  | NSDI 24  | 1 |
-| The demikernel datapath OS architecture for microsecond-scale datacenter systems  | SOSP 21  | 0 |
+| The demikernel datapath OS architecture for microsecond-scale datacenter systems  | SOSP 21  | 1 |
